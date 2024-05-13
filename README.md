@@ -1,4 +1,4 @@
-Siga as intruções a seguir:
+# Instruções:
 
 1. Faça o download dos arquivos do GitHub para o seu computador, na unidade C:;
 
