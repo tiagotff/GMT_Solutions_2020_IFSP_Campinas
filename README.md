@@ -53,5 +53,5 @@ demais stakeholders; e,
 
 • [Relatório Final Acadêmico 2020](https://github.com/tiagotff/GMT_Solutions_2020_IFSP_Campinas/blob/master/Relatorio_Academico_2020.pdf)
 
-• [Relatório Final Acadêmico 2019)](https://github.com/tiagotff/GMT_Solutions_2020_IFSP_Campinas/blob/master/Relatorio_Academico_2019.pdf)
+• [Relatório Final Acadêmico 2019)(https://github.com/tiagotff/GMT_Solutions_2020_IFSP_Campinas/blob/master/Relatorio_Academico_2019.pdf)
 
