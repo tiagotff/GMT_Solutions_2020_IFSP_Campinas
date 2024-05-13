@@ -11,6 +11,10 @@
 # Sobre o Projeto
 ## Sistema de gerenciamento de livros e aplicativo android de crowdfunding para projetos de cunho literário
 
+Trata-se de um projeto interdisciplinar desenvolvido sob a abordagem da metodologia Problem Based Learning (PBL) por alunos do Curso Técnico em desenvolvimento de Sistemas, do IFSP-Campinas.
+
+O projeto foi evoluindo ao longo do curso, sendo incrementado a cada semestre, chegando nessa versão final.
+
 
 ## Contexto
 
