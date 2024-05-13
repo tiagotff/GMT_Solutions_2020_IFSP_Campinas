@@ -47,7 +47,7 @@ demais stakeholders; e,
 
 ## Mais informações
 
-• [Relatório final de atividades apresentado ao curso Técnico em Desenvolvimento de Sistemas, do Instituto Federal de Educação, Ciência e Tecnologia do Estado de São Paulo, Câmpus Campinas, como parte das exigências para avaliação de trabalho interdisciplinar desenvolvido em equipe, no quarto semestre de curso. (2020)]()
+• [Relatório final de atividades apresentado ao curso Técnico em Desenvolvimento de Sistemas, do Instituto Federal de Educação, Ciência e Tecnologia do Estado de São Paulo, Câmpus Campinas, como parte das exigências para avaliação de trabalho interdisciplinar desenvolvido em equipe, no quarto semestre de curso. (2020)](https://github.com/tiagotff/GMT_Solutions_2020_IFSP_Campinas/blob/master/Relatorio_Academico_2020.pdf)
 
-• [Relatório final de atividades apresentado ao curso Técnico em Desenvolvimento de Sistemas, do Instituto Federal de Educação, Ciência e Tecnologia do Estado de São Paulo, Câmpus Campinas, como parte das exigências para avaliação de trabalho interdisciplinar desenvolvido em equipe, no terceiro semestre de curso. (2019)]()
+• [Relatório final de atividades apresentado ao curso Técnico em Desenvolvimento de Sistemas, do Instituto Federal de Educação, Ciência e Tecnologia do Estado de São Paulo, Câmpus Campinas, como parte das exigências para avaliação de trabalho interdisciplinar desenvolvido em equipe, no terceiro semestre de curso. (2019)](https://github.com/tiagotff/GMT_Solutions_2020_IFSP_Campinas/blob/master/Relatorio_Academico_2019.pdf)
 
