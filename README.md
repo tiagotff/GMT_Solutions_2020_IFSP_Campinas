@@ -8,7 +8,8 @@
 
 4. Execute o código.
 
-# Sobre o Projeto: Sistema de gerenciamento de livros e aplicativo android de crowdfunding para projetos de cunho literário
+# Sobre o Projeto
+## Sistema de gerenciamento de livros e aplicativo android de crowdfunding para projetos de cunho literário
 
 
 ## Contexto
